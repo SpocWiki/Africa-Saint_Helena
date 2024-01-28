@@ -16,8 +16,8 @@ id: Saint Helena
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saint_Helena/
-markerFolder: ./Saint_Helena/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Saint Helena] 
