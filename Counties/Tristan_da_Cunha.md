@@ -40,11 +40,18 @@ markerFolder: ./Tristan_da_Cunha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha|Tristan_da_Cunha]] 
-- [[../../../../../../_public/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.public|Tristan_da_Cunha.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.internal|Tristan_da_Cunha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.protect|Tristan_da_Cunha.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.private|Tristan_da_Cunha.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.personal|Tristan_da_Cunha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Saint_Helena/Counties/Tristan_da_Cunha.secret|Tristan_da_Cunha.secret]] 
+
+### #is_/same_as :: [Tristan_da_Cunha](/_Standards/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.md) 
+
+### #is_/same_as :: [Tristan_da_Cunha.public](/_public/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.public.md) 
+
+### #is_/same_as :: [Tristan_da_Cunha.internal](/_internal/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.internal.md) 
+
+### #is_/same_as :: [Tristan_da_Cunha.protect](/_protect/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.protect.md) 
+
+### #is_/same_as :: [Tristan_da_Cunha.private](/_private/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.private.md) 
+
+### #is_/same_as :: [Tristan_da_Cunha.personal](/_personal/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.personal.md) 
+
+### #is_/same_as :: [Tristan_da_Cunha.secret](/_secret/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.secret.md)
 

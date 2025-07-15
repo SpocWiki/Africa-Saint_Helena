@@ -40,11 +40,18 @@ markerFolder: ./Ascension/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Saint_Helena/Counties/Ascension|Ascension]] 
-- [[../../../../../../_public/geo/Continent/Africa/Saint_Helena/Counties/Ascension.public|Ascension.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Saint_Helena/Counties/Ascension.internal|Ascension.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Saint_Helena/Counties/Ascension.protect|Ascension.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Saint_Helena/Counties/Ascension.private|Ascension.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Saint_Helena/Counties/Ascension.personal|Ascension.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Saint_Helena/Counties/Ascension.secret|Ascension.secret]] 
+
+### #is_/same_as :: [Ascension](/_Standards/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.md) 
+
+### #is_/same_as :: [Ascension.public](/_public/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.public.md) 
+
+### #is_/same_as :: [Ascension.internal](/_internal/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.internal.md) 
+
+### #is_/same_as :: [Ascension.protect](/_protect/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.protect.md) 
+
+### #is_/same_as :: [Ascension.private](/_private/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.private.md) 
+
+### #is_/same_as :: [Ascension.personal](/_personal/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.personal.md) 
+
+### #is_/same_as :: [Ascension.secret](/_secret/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.secret.md)
 
