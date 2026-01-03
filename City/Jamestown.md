@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jamestown](/_Standards/Earth/Continent/Africa/Africa~West/Saint_Helena/City/Jamestown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/City/Jamestown|Jamestown]] 
 
-### #is_/same_as :: [Jamestown.public](/_public/Earth/Continent/Africa/Africa~West/Saint_Helena/City/Jamestown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/City/Jamestown.public|Jamestown.public]] 
 
-### #is_/same_as :: [Jamestown.internal](/_internal/Earth/Continent/Africa/Africa~West/Saint_Helena/City/Jamestown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/City/Jamestown.internal|Jamestown.internal]] 
 
-### #is_/same_as :: [Jamestown.protect](/_protect/Earth/Continent/Africa/Africa~West/Saint_Helena/City/Jamestown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/City/Jamestown.protect|Jamestown.protect]] 
 
-### #is_/same_as :: [Jamestown.private](/_private/Earth/Continent/Africa/Africa~West/Saint_Helena/City/Jamestown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/City/Jamestown.private|Jamestown.private]] 
 
-### #is_/same_as :: [Jamestown.personal](/_personal/Earth/Continent/Africa/Africa~West/Saint_Helena/City/Jamestown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/City/Jamestown.personal|Jamestown.personal]] 
 
-### #is_/same_as :: [Jamestown.secret](/_secret/Earth/Continent/Africa/Africa~West/Saint_Helena/City/Jamestown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/City/Jamestown.secret|Jamestown.secret]] 
 

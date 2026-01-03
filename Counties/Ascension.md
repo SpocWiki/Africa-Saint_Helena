@@ -40,17 +40,17 @@ markerFolder: ./Ascension/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ascension](/_Standards/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Ascension|Ascension]] 
 
-### #is_/same_as :: [Ascension.public](/_public/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Ascension.public|Ascension.public]] 
 
-### #is_/same_as :: [Ascension.internal](/_internal/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Ascension.internal|Ascension.internal]] 
 
-### #is_/same_as :: [Ascension.protect](/_protect/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Ascension.protect|Ascension.protect]] 
 
-### #is_/same_as :: [Ascension.private](/_private/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Ascension.private|Ascension.private]] 
 
-### #is_/same_as :: [Ascension.personal](/_personal/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Ascension.personal|Ascension.personal]] 
 
-### #is_/same_as :: [Ascension.secret](/_secret/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Ascension.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Ascension.secret|Ascension.secret]] 
 

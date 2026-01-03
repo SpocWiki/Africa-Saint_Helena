@@ -40,17 +40,17 @@ markerFolder: ./Tristan_da_Cunha/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tristan_da_Cunha](/_Standards/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Tristan_da_Cunha|Tristan_da_Cunha]] 
 
-### #is_/same_as :: [Tristan_da_Cunha.public](/_public/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Tristan_da_Cunha.public|Tristan_da_Cunha.public]] 
 
-### #is_/same_as :: [Tristan_da_Cunha.internal](/_internal/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Tristan_da_Cunha.internal|Tristan_da_Cunha.internal]] 
 
-### #is_/same_as :: [Tristan_da_Cunha.protect](/_protect/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Tristan_da_Cunha.protect|Tristan_da_Cunha.protect]] 
 
-### #is_/same_as :: [Tristan_da_Cunha.private](/_private/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Tristan_da_Cunha.private|Tristan_da_Cunha.private]] 
 
-### #is_/same_as :: [Tristan_da_Cunha.personal](/_personal/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Tristan_da_Cunha.personal|Tristan_da_Cunha.personal]] 
 
-### #is_/same_as :: [Tristan_da_Cunha.secret](/_secret/Earth/Continent/Africa/Africa~West/Saint_Helena/Counties/Tristan_da_Cunha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands/Counties/Tristan_da_Cunha.secret|Tristan_da_Cunha.secret]] 
 
