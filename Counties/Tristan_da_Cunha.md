@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Tristan_da_Cunha/
 markerFolder: ./Tristan_da_Cunha/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
